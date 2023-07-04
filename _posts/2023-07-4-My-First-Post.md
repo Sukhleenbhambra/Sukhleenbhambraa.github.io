@@ -1,0 +1,6 @@
+...
+layout:Post
+title:My first post
+...
+
+This is the first post on my new blog.I hope you like it.
